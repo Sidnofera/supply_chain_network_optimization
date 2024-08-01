@@ -1,0 +1,1 @@
+The goal of this project is to use C++ to create an optimization tool for supply chains. It computes the total cost of transportation, models demand forecasting, and uses Dijkstra's algorithm to find the shortest path in a graph.
